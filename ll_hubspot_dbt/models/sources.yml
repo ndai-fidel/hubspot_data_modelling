@@ -1,0 +1,27 @@
+version: 2
+
+sources:
+  - name: hubspot_source   # The name you use to refer to this source in dbt
+    database: rare-guide-433209-e6  # Your BigQuery project
+    schema: HUBSPOT   # Your BigQuery dataset
+    tables:
+      - name: ll_hs_contacts
+        description: "HubSpot contacts data"
+        columns:
+          - name: id
+            description: "Unique identifier for HubSpot contact"
+          - name: createdAt
+            description: "Timestamp when the contact was created"
+          - name: updatedAt
+            description: "Timestamp when the contact was last updated"
+      - name: clean_ll_hs_contacts
+        description: "Clean HubSpot contacts data"
+      - name: ll_hs_owners
+        description: "HubSpot owners data"
+        columns:
+          - name: id
+            description: "Unique identifier for HubSpot owner"
+          - name: firstName
+            description: "First name of the owner"
+          - name: teams
+            description: "Array of teams associated with the owner"

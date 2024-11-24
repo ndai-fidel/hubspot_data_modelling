@@ -1,0 +1,19 @@
+name: 'll_hubspot_dbt'
+version: '1.0.0'
+
+profile: 'll_hubspot_dbt'
+
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+models:
+  ll_hubspot_dbt:
+    +materialized: table

@@ -1,0 +1,312 @@
+Feature,Coefficient
+Intercept,-816264.9227275329
+cat__Make_Acura,-188.4999559924991
+cat__Make_Alfa Romeo,3256.569539666561
+cat__Make_Audi,955.5165448740406
+cat__Make_BMW,1415.4747763126657
+cat__Make_Buick,87.92203222549276
+cat__Make_Cadillac,1727.4456135426847
+cat__Make_Chevrolet,1273.3681435467518
+cat__Make_Chevy,717.8451301121922
+cat__Make_Chrysler,1011.7469948106651
+cat__Make_Dodge,984.9377922877081
+cat__Make_Dodge Ram,907.852247886446
+cat__Make_Fiat,-683.9227221725433
+cat__Make_Ford,1491.0959530062985
+cat__Make_GMC,2541.410054417794
+cat__Make_Genesis,-2400.844815503263
+cat__Make_Honda,-412.5796270834694
+cat__Make_Hyundai,-2720.3762824176033
+cat__Make_Infiniti,-2179.2959849752
+cat__Make_Jaguar,-1338.1871968693526
+cat__Make_Jeep,2487.715509214744
+cat__Make_Kia,-1075.4815751247536
+cat__Make_Land Rover,-549.4979842178602
+cat__Make_Lexus,179.77073066014898
+cat__Make_Lincoln,-679.7230243796783
+cat__Make_Maserati,1337.6284449995783
+cat__Make_Mazda,-542.1525614832324
+cat__Make_Mercedes-Benz,383.8537514011917
+cat__Make_Mitsubishi,419.355515368997
+cat__Make_NIssan,-2211.3729451056834
+cat__Make_Nissan,-2129.30905654037
+cat__Make_Subaru,-1597.8066556597603
+cat__Make_Tesla,-1316.5497401475716
+cat__Make_Toyota,-512.6593683582199
+cat__Make_Volkswagen,-212.46688585606935
+cat__Make_Volskwagen,-428.7823924464118
+cat__Model_200,-4527.614487254682
+cat__Model_3 Series,-1220.30105882213
+cat__Model_300,961.7937127855301
+cat__Model_500L 4D,-1733.8145547821778
+cat__Model_500X,1049.891832609645
+cat__Model_6,4623.500851708267
+cat__Model_ATS Sedan,-1151.0931250525043
+cat__Model_Acadia,-1795.907999347315
+cat__Model_Accent,886.9660062433624
+cat__Model_Accord Hybrid,1700.1119229099306
+cat__Model_Altima,-560.1876517488369
+cat__Model_Armada,1254.6021622302355
+cat__Model_Ascent,-2641.341996818884
+cat__Model_Atlas,-54.25859858859953
+cat__Model_Aviator,2018.246217817801
+cat__Model_Blazer,-1286.2557951390422
+cat__Model_Bolt EUV,-4320.779161597108
+cat__Model_Bronco,-214.99693343723794
+cat__Model_Bronco Sport,-1208.9365824724318
+cat__Model_C15 Full Size,-5031.748368496892
+cat__Model_CR-V,-2135.226409787911
+cat__Model_CT4,-3167.3998491338803
+cat__Model_CT5,-163.5781841835133
+cat__Model_CT5 Premium Luxury,3823.1521131238774
+cat__Model_CT6,4531.105488678781
+cat__Model_CT6 Sedan,348.89040104124183
+cat__Model_CTS,3033.8065812896716
+cat__Model_CTS Sedan,-1546.6802473667035
+cat__Model_CX-5,-1988.0599124298624
+cat__Model_CX-50,-2578.570211922239
+cat__Model_CX-9,-599.0232888393929
+cat__Model_Camaro,513.3343636582024
+cat__Model_Camry,-2127.657699961154
+cat__Model_Canyon,2569.7317626187346
+cat__Model_Carnival,257.76454004947766
+cat__Model_Cascada,-2164.0856434546345
+cat__Model_Challenger,343.5157794877855
+cat__Model_Challenger R/T,-3147.8235233089067
+cat__Model_Charger,639.8132495715693
+cat__Model_Cherokee,-937.2391521529502
+cat__Model_Cherokee 4D,-1496.5070466273007
+cat__Model_Civic,-36.56337969464674
+cat__Model_Colorado,-1717.2260110951725
+cat__Model_Compass,-2209.501614450671
+cat__Model_Corolla,1366.6866816886743
+cat__Model_Corvette,1571.210371775381
+cat__Model_Corvette 2DR,5673.493833131653
+cat__Model_Cruze,-783.1821838959057
+cat__Model_Dart,-512.1265653909724
+cat__Model_Defender,-1692.778084620464
+cat__Model_Denali,-1103.9715503773539
+cat__Model_Denali 2500,-1867.268791261601
+cat__Model_Discovery Sport,-2498.5744552693973
+cat__Model_Durango,-402.748898443009
+cat__Model_Durango GT,1852.1215636718978
+cat__Model_E-Pace,-80.51563675137731
+cat__Model_E-Tron GT,1415.1201094265837
+cat__Model_ES 350,-169.97991503514837
+cat__Model_EV6,-1595.7777400741163
+cat__Model_EcoSport,-2351.3126619942195
+cat__Model_Edge,-4136.498686668547
+cat__Model_Elantra,143.08042824414667
+cat__Model_Enclave,-387.8039949445523
+cat__Model_Encore,1622.2284902890992
+cat__Model_Encore GX,-2253.046065710538
+cat__Model_Envision,570.829987660789
+cat__Model_Equinox,-1025.6530345829278
+cat__Model_Escalade,1572.8861234212447
+cat__Model_Escalade ESV,7747.141358531665
+cat__Model_Escape,-3036.262092778517
+cat__Model_Expedition,1000.2886583786799
+cat__Model_Explorer,-820.529445890339
+cat__Model_Explorer 4WD,6270.855240437124
+cat__Model_Express Cargo,-4511.339977587344
+cat__Model_F Pace S,-303.0946903153481
+cat__Model_F-150,-651.6947915191553
+cat__Model_F-150 4WD,5947.502570551962
+cat__Model_F-150 Hybrid,-4544.080314167709
+cat__Model_F-150 SuperCrew,363.39295443825154
+cat__Model_F-250,516.7570382034401
+cat__Model_F-250 SRW Super Duty,8455.776911986333
+cat__Model_F-250 Super Duty,5461.42703903342
+cat__Model_F-250 Super Duty SRW,-2538.4851001372126
+cat__Model_F-350,5135.718167482156
+cat__Model_F-350 Super Duty,-1385.1146570592216
+cat__Model_F-550,3453.1472062974176
+cat__Model_F-Pace,-954.5768698026237
+cat__Model_Focus,-3132.1356722620167
+cat__Model_Forte,501.7379070794129
+cat__Model_Frontier,-336.1772674220855
+cat__Model_Fusion,-6067.729697012937
+cat__Model_G70,1410.7899185107833
+cat__Model_G90,-2424.653626029606
+cat__Model_GLB 250W4,383.8537514011917
+cat__Model_GV70,352.7343725924615
+cat__Model_GV80,-1739.7154805768814
+cat__Model_Ghibli,1337.6284449995783
+cat__Model_Giulia,4003.9598576585245
+cat__Model_Gladiator,-326.6889161161566
+cat__Model_Grand Caravan,-437.9698395431211
+cat__Model_Grand Cherokee,-701.4666933740947
+cat__Model_Grand Cherokee L,10885.377749406016
+cat__Model_Grand Wagoneer,-1441.6706450646127
+cat__Model_HR-V,400.60906945275394
+cat__Model_Hornet GT,635.1706719483209
+cat__Model_Hummer EV,-7569.356328798137
+cat__Model_ID.4,855.6892943718806
+cat__Model_IS 500,271.94806513959287
+cat__Model_Impala,2458.952992868404
+cat__Model_Impreza,-228.22409246723282
+cat__Model_Jetta,-1395.8284025659877
+cat__Model_Journey,-824.2646323798455
+cat__Model_K5,981.8410858893313
+cat__Model_Kicks,-691.2791841496311
+cat__Model_Kona,-1036.8500064696907
+cat__Model_LaCrosse,2699.799258385327
+cat__Model_Leaf,303.7838846486924
+cat__Model_MDX,3731.229049577639
+cat__Model_MKC,-1738.4300666059144
+cat__Model_MKX,59.33093767901036
+cat__Model_MKZ,-2830.890902378668
+cat__Model_Malibu,-1883.2240441927945
+cat__Model_Malibu LT,-696.3275447558188
+cat__Model_Maverick,-1044.1187532805468
+cat__Model_Mirage,-631.8948250340936
+cat__Model_Model X,-1316.5497401475716
+cat__Model_Murano,-242.34071240958068
+cat__Model_Mustang,-946.9599655560454
+cat__Model_Mustang Mach-E,269.5165642900075
+cat__Model_NV Cargo,711.3065749696467
+cat__Model_Nautilus,3045.2543555785805
+cat__Model_Navigator,-1233.2335664704924
+cat__Model_Odyssey,-371.4556954683375
+cat__Model_Odyssey Elite,1422.6964677794972
+cat__Model_Odyssey Touring,-2048.476982491642
+cat__Model_Optima,-1425.3297037978473
+cat__Model_Outlander,-308.53107141294294
+cat__Model_Outlander Sport,1359.7814118160281
+cat__Model_Pacifica,730.6654504043784
+cat__Model_Palisade,-1157.5732440716572
+cat__Model_Passat,1071.9499591718552
+cat__Model_Pathfinder,-418.9019999618687
+cat__Model_Pilot,655.7253802169447
+cat__Model_Q3,-669.0279457999724
+cat__Model_Q5,-3426.277206225172
+cat__Model_Q60,353.8840685635079
+cat__Model_Q7,-5102.554996655647
+cat__Model_Q8,6302.162266322054
+cat__Model_QX50,-2533.1800535387006
+cat__Model_RAM 1500 4WD,1258.2853267612718
+cat__Model_RAM 2500,1304.2446870521671
+cat__Model_RAM 2500 ST,1357.744234212426
+cat__Model_RAM 5500,-508.0623889466855
+cat__Model_RAV4,207.80231848567274
+cat__Model_RDX,-2281.1256946552667
+cat__Model_RX,77.80258055570934
+cat__Model_Ram 1500,571.2275731144435
+cat__Model_Ram 1500 Big Horn,944.604364653354
+cat__Model_Ram 2500,7186.095379953737
+cat__Model_Ram 2500 Big Horn,-1142.2283092792889
+cat__Model_Ram 3500,1242.7878797746778
+cat__Model_Ram 5500,-221.3504321416787
+cat__Model_Ram ProMaster,-105.2285707214054
+cat__Model_Ram ProMaster 2500,-1698.8859895411108
+cat__Model_Ram ProMaster City,-2549.7400169943426
+cat__Model_Ram Tradesman,2016.6340887160795
+cat__Model_Range Rover,-1121.5958071628784
+cat__Model_Range Rover Evoque,-1394.1101058402412
+cat__Model_Range Rover RGREVQ,1394.9908187599733
+cat__Model_Range Rover Sport,-697.4590344108977
+cat__Model_Range Rover Velar,4816.3995384485015
+cat__Model_Ranger,-4589.443205640538
+cat__Model_Renegade,-1733.3690500893094
+cat__Model_Rio,997.6092896602831
+cat__Model_Rogue,-776.5919560625209
+cat__Model_Rogue AWD,-675.7740210356546
+cat__Model_SQ5,2625.558866619119
+cat__Model_SQ5.3.0TQ,-189.46454881288918
+cat__Model_Santa Cruz,-98.74907296985435
+cat__Model_Santa Fe,-804.0055136060536
+cat__Model_Santa Fe AWD,495.2721972270948
+cat__Model_Santa Fe Sport,710.3241674329747
+cat__Model_Seltos,-1225.064937593605
+cat__Model_Sentra,76.77078094004641
+cat__Model_Sierra,-1463.545590014286
+cat__Model_Sierra 1500,-1398.495166051277
+cat__Model_Sierra 1500 2WD,2225.159096701796
+cat__Model_Sierra 1500 LTD,-588.3621315118112
+cat__Model_Sierra 1500 Limited,12409.992907419002
+cat__Model_Sierra 250,-1780.4141521217045
+cat__Model_Sierra 2500,-482.08719769502306
+cat__Model_Sierra 2500HD,-82.85078506157548
+cat__Model_Sierra 3500,-2938.3157062923233
+cat__Model_Sierra 3500HD,-2261.9096733349174
+cat__Model_Sierra 4WD,-1557.8350985558695
+cat__Model_Sierra Denali,7867.676058785429
+cat__Model_Sierra Denali 1500,17173.246217892145
+cat__Model_Sierra K1500 SL,-2671.030796629425
+cat__Model_Sierra K3500,-280.4306260275854
+cat__Model_Sierra L,1404.4965368221137
+cat__Model_Sierra Limited,1410.1137160591575
+cat__Model_Sierra Pick-up,-4465.3303323705495
+cat__Model_Silverado,-31.747547188902836
+cat__Model_Silverado 1500,-103.32046429273798
+cat__Model_Silverado 1500 4WD,9014.56004821331
+cat__Model_Silverado 1500 LTD,2792.3865104642714
+cat__Model_Silverado 2500,-253.35143826984415
+cat__Model_Silverado 2500HD,-528.407686918959
+cat__Model_Silverado 3500,-959.6643791178503
+cat__Model_Silverado 3500HD,-2142.0903852666124
+cat__Model_Silverado K1500,1081.071436471912
+cat__Model_Sonata,-616.0264515145053
+cat__Model_Sonic,2308.15715743189
+cat__Model_Sorento,109.81292712671357
+cat__Model_Sorento EX V6,-162.5661835479565
+cat__Model_Sorento Hybrid,3027.9616846325343
+cat__Model_Soul,-1065.0599041477658
+cat__Model_Soul LX,-156.94900431195717
+cat__Model_Sportage,-240.94556115518847
+cat__Model_Stelvio,-747.3903179919803
+cat__Model_Stinger,-1511.4406212467993
+cat__Model_Suburban,974.8495206672067
+cat__Model_Super Duty,406.11037829782333
+cat__Model_TLX,-1638.6033109148525
+cat__Model_TR XT5,-6145.4210327960545
+cat__Model_Tacoma 2WD,-35.20784679101082
+cat__Model_Tahoe,-795.6976035776075
+cat__Model_Taos,-966.3381482917562
+cat__Model_Telluride,430.9246463128485
+cat__Model_Terrain,-2298.3817091537167
+cat__Model_Terrain SLT,-2589.842353527396
+cat__Model_Tiguan,-152.46338239995643
+cat__Model_Titan,-236.8201196305433
+cat__Model_Titan XD,711.3065749696467
+cat__Model_Titan XD 4WD,-1521.6550890641074
+cat__Model_Trailblazer,-418.3528496944152
+cat__Model_Transit,342.5884271257045
+cat__Model_Transit Cargo Van,128.14007797479186
+cat__Model_Transit Connect,-815.92252047694
+cat__Model_Traverse,-427.2324840783505
+cat__Model_Trax,-2512.950369776482
+cat__Model_Truck,487.8624520044201
+cat__Model_Truck 150,-2147.834505910808
+cat__Model_Truck Explorer,3776.499876183369
+cat__Model_Truck Ranger,-2552.404077317717
+cat__Model_Tucson,-710.0196966258985
+cat__Model_Tucson Hybrid,-243.13024634343907
+cat__Model_Tundra 4WD,26.75500457712676
+cat__Model_Tundra 4WD LTD,48.962173642438756
+cat__Model_Velar,643.6291458775489
+cat__Model_Veloster,-289.664849963721
+cat__Model_Versa,-1411.4407270157444
+cat__Model_Versa Sedan,-527.2832509038143
+cat__Model_Voyager,-402.1512192716872
+cat__Model_WRX,1271.7594336263173
+cat__Model_Wagoneer,4478.816550207837
+cat__Model_Wrangler,-1172.872768790582
+cat__Model_Wrangler Unlimited,-2857.1629037322464
+cat__Model_X5,129.14412037048464
+cat__Model_X5 M,-3087.0835966158156
+cat__Model_X7,-278.3785699495119
+cat__Model_XT4,-3160.261232412446
+cat__Model_XT5,-1436.4979488294182
+cat__Model_XTS,-2558.604832768811
+cat__Model_Yukon,955.1770811568289
+cat__Model_Yukon Denali,-190.41674650318524
+cat__Model_Yukon XL,-1056.6822199059072
+cat__Model_iX xDrive50,5872.093881329642
+remainder__Year,407.50633401404565
+remainder__Transmission,341.1229895194288
+remainder__Engine,335.0747697882433
+remainder__Electrical,143.38369110921863
+remainder__Brakes,751.8793277196178
+remainder__Structural,0.0
+remainder__HVAC,-1084.8531348356223

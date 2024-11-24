@@ -1,0 +1,240 @@
+Feature,Coefficient
+Year,13.55655546
+Make_Acura,-31766.17589
+Make_Alfa-Romeo,893.932898
+Make_Aston Martin,25724.83614
+Make_Audi,-2509.256349
+Make_BMW,-41023.04102
+Make_Buick,-18052.99773
+Make_Cadillac,62508.78489
+Make_Chevrolet,7352.72064
+Make_Chrysler,9046.062829
+Make_Dodge Ram,79204.84395
+Make_Fiat,-14982.02885
+Make_Ford,-20420.44303
+Make_GMC,4816.740227
+Make_Honda,-29871.7643
+Make_Hyundai,1933.425251
+Make_Infiniti,2860.812832
+Make_Jaguar,1648.262053
+Make_Jeep,-5374.281172
+Make_Kia,-8253.779397
+Make_Land Rover,27668.45319
+Make_Lexus,10679.33902
+Make_Lincoln,-20954.40918
+Make_Lucid Air,-16184.93257
+Make_Maserati,46240.93302
+Make_Mazda,-19466.90791
+Make_Mercedes-Benz,7502.077021
+Make_Mini,-12391.61149
+Make_Nissan,-8051.852538
+Make_Porsche,32662.64369
+Make_Subaru,-20347.35437
+Make_Tesla,5360.329589
+Make_Toyota,-41338.64765
+Make_Volkswagen,7732.776427
+Make_Volvo,-21797.76951
+Make_nan,-1049.720693
+Model_1500 TRX,-31190.24786
+Model_200,3439.820688
+Model_200 SEDAN,18158.87357
+Model_200 Sedan,-4854.015946
+Model_3,-2355.374277
+Model_330e,69162.31909
+Model_3500 Big Horn,41732.53465
+Model_430i,-6907.924663
+Model_4Runner,-20981.60656
+Model_500,-14556.70651
+Model_500X,25304.66259
+Model_500e,-35670.60653
+Model_500pop,9940.621603
+Model_530i,13053.72621
+Model_6,-3500.316129
+Model_911,62572.37112
+Model_A3,-910.4927591
+Model_A4,-12935.81291
+Model_A6,-6432.122603
+Model_Accord,-3636.103883
+Model_Altima,-7478.27733
+Model_Armada,261.8814511
+Model_Ascent,22061.0789
+Model_Atlas,4839.480045
+Model_Aviator,-9085.966701
+Model_C-Class,-21314.81282
+Model_C-HR,38785.81967
+Model_CLA,-9492.906005
+Model_CR-V,20610.16055
+Model_CTS,-61851.90189
+Model_CX-5,-2912.768232
+Model_CX-9,-10698.44928
+Model_Camaro,-42636.55554
+Model_Camry,524.1381023
+Model_Canyon,-22952.82417
+Model_Caravan,-110523.8537
+Model_Challenger,-59242.31308
+Model_Charger,-78070.66724
+Model_Cherokee,262.0453781
+Model_Civic,2875.542652
+Model_Clarity,-13920.95675
+Model_Colorado,-2576.398905
+Model_Compass,3531.338975
+Model_Cooper,-12391.61149
+Model_Corolla,23579.09092
+Model_Cruze,-34576.17755
+Model_Discovery,111847.3883
+Model_Discovery Sport,-48280.78684
+Model_Dodge,-131427.7194
+Model_Durango,-57069.27376
+Model_E-Class,4721.662424
+Model_EQS,61047.69217
+Model_EcoSport,20101.49958
+Model_Edge,51566.85587
+Model_Elantra,-25456.174
+Model_Encore,-18052.99773
+Model_Escalade,-55277.27873
+Model_Escape,-1426.208711
+Model_Expedition,68981.24223
+Model_Explorer,29492.99864
+Model_Express,12685.15762
+Model_F-150,45529.33033
+Model_F-150 Raptor,54203.90277
+Model_F-250,4304.783352
+Model_F-350,211071.7281
+Model_F-550,-6399.777783
+Model_F-Pace,28624.69748
+Model_Flex,35565.43428
+Model_Focus,-24136.04791
+Model_Forester,-30974.12846
+Model_Forte,-7721.044236
+Model_Frontier,2451.743596
+Model_Fusion,-13171.92642
+Model_G-Class,177478.9877
+Model_GLA,-24976.37696
+Model_GLB,-21177.00409
+Model_GLC,-16694.39416
+Model_GLE,5804.52714
+Model_GLS,105109.9716
+Model_GS,19599.81571
+Model_Ghibli,25444.33326
+Model_Giulia,3447.631969
+Model_Gladiator,46295.91505
+Model_Golf,60549.7752
+Model_Grand Caravan,-91713.13346
+Model_Grand Cheroke,-9281.487752
+Model_Grand Cherokee,25474.02492
+Model_Grand Touring,-16184.93257
+Model_Grand Wagoneer,161293.7822
+Model_Highlander,40227.11819
+Model_IS,22651.32442
+Model_IS 300,-31571.80111
+Model_Impreza,-3138.384522
+Model_Jetta,-8198.763311
+Model_Journey,-75986.51749
+Model_Kicks,-6675.685799
+Model_Kona,-2657.682584
+Model_Levante,-71091.30537
+Model_MDX,92937.94282
+Model_MKC,22191.36027
+Model_MKZ,-34059.80275
+Model_Macan,-29909.72743
+Model_Malibu,-35259.15684
+Model_Maxima,38638.13398
+Model_Model 3,-19006.26169
+Model_Model S,15077.94049
+Model_Model X,21516.47847
+Model_Model Y,-12227.82769
+Model_Murano,38352.5431
+Model_Mustang,29834.98452
+Model_Odyssey,13946.70851
+Model_Optima,12533.49817
+Model_Outback,12831.83464
+Model_Pacifica,11625.11065
+Model_Palisade,-32867.88619
+Model_Passport AWD,-9686.163279
+Model_Pathfinder,-3702.057822
+Model_Patriot,47.54801731
+Model_Pilot,-443.3552678
+Model_Prius,-8854.977097
+Model_ProMaster,-82864.36499
+Model_Q3,-18992.68295
+Model_Q4 e-tron,11556.49322
+Model_Q5,25205.36166
+Model_QX30,-37566.5048
+Model_QX60,9410.388653
+Model_Quattroporte,44503.61956
+Model_RAM 2500,-82758.36243
+Model_RAV4,14368.53512
+Model_Ram,-24142.36775
+Model_Ram 1500,-47609.0102
+Model_Ram 2500,-117256.24
+Model_Range Rover,5272.315346
+Model_Range Rover Evoque,-11887.94816
+Model_Range Rover Sport,29785.05151
+Model_Range Rover Velar,12207.32069
+Model_Ranger,13791.71355
+Model_Renegade,1607.196205
+Model_Ridgeline,-12888.55523
+Model_Rio,5549.031062
+Model_Rogue,-5015.020842
+Model_S-Class,69185.58813
+Model_Santa Fe,-21419.36745
+Model_Savana,-29632.35933
+Model_Scion,960.1294888
+Model_Seltos,57894.57032
+Model_Sentra,-17514.20947
+Model_Sienna,34545.68551
+Model_Sierra 1500,-35905.23938
+Model_Silverado,-24582.48388
+Model_Sonata,-37313.39963
+Model_Sonic,-35259.52277
+Model_Sorento,-34494.53994
+Model_Soul,-7358.576049
+Model_Sportage,-23987.25294
+Model_Stelvio,-2553.699071
+Model_Stinger,-26629.50337
+Model_Tacoma,-9005.125409
+Model_Tahoe,5482.908336
+Model_Telluride,15960.0376
+Model_Terrain,-32959.75973
+Model_Tiguan,-29506.12137
+Model_Titan,21389.26913
+Model_Transit,-22428.65076
+Model_Traverse,-15602.76664
+Model_Trax,-34804.41743
+Model_Truck Durango,-59217.58692
+Model_Tucson,-18382.08678
+Model_Vantage,25724.83614
+Model_Versa,-21154.35095
+Model_Volt,-28330.74793
+Model_WRX,-23659.99499
+Model_WRX STI,2532.240066
+Model_Wrangler,25463.87998
+Model_Wrangler Rubicon,-4826.732083
+Model_Wrangler Unlimited,-6241.003126
+Model_X1,-13944.52167
+Model_X2,218592.5515
+Model_X4,-665.3885742
+Model_X5,3849.864373
+Model_XC60,-20028.90952
+Model_XC90,-1768.85999
+Model_XF,-30138.42517
+Model_Yukon,-12781.27097
+Model_nan,-9147.749905
+Transmission,-1914.784251
+Engine,-4036.932188
+Electrical,3922.166063
+Brakes,-7024.258295
+HVAC,-48666.24045
+Structural,5498.839959
+Interior,0
+Exterior,-8056.689876
+Battery,-19323.72613
+Suspension,7542.103718
+Powertrain,-53207.82346
+Fuel System,0
+Emission,5309.332379
+Fuel Tank,0
+Steering,6493.703906
+Various recalls,-12391.61149
+Computer System,0
+Intercept,35366.68687
